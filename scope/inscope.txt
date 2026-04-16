@@ -77,7 +77,6 @@ zabbix.mtf.li
 *.ip-plus.net
 *.jlr-connect.ch
 *.labnet.ch
-*.lanexpert.ch
 *.mccip.ch
 *.medicalconnector.ch
 *.medicalexchange.ch

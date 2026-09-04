@@ -206,6 +206,9 @@ https://github.com/swisscom/
 
 # Swisscom Event & Media Solutions AG
 *.swisscomstream.ch
+*.truvami.com
+*.veertly.ch
+*.veertly.de
 
 # Swisscom Secure Vision AG
 *.audiovideo-sa.ch
